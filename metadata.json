@@ -1,0 +1,6 @@
+{
+  "name": "Taste Safari with Rajat",
+  "description": "Cinematic food-travel, culinary discoveries, restaurant reviews, and food vlogging with Rajat in Bharatpur and beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

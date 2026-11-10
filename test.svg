@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#2d1607"/>
+      <stop offset="60%" stop-color="#140a04"/>
+      <stop offset="100%" stop-color="#0a0502"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="400" cy="300" r="180" fill="#e07a2a" opacity="0.8"/>
+  <text x="400" y="310" text-anchor="middle" fill="#fff" font-family="sans-serif" font-size="28" font-weight="bold">Bedmi Puri</text>
+</svg>
